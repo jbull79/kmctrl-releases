@@ -1,16 +1,21 @@
-# KMctrl — Releases
+# KMctrl
 
 **KMctrl** lets one Mac control another Mac's **keyboard and mouse over the local network** —
 no cloud, no accounts. Built for bridging a locked-down / MDM work Mac to a personal one:
 **window mode needs no permissions**, so it works without admin rights.
 
-The source repo is private; notarized/signed builds and notes live here.
+The source repo is private; signed builds live here.
 
-## Install (on both Macs)
+## Download
 
-1. Download `KMctrl-x.y.z.zip` from [**Releases**](../../releases/latest) and unzip.
-2. Move **KMctrl.app** to `/Applications`.
-3. First launch (unsigned beta) — a downloaded copy is quarantined and Gatekeeper blocks it.
+### ▶︎ [Download KMctrl 0.1.0 (.zip)](https://github.com/jbull79/kmctrl-releases/raw/main/KMctrl-0.1.0.zip)
+
+Requires macOS 13+. Install on **both** Macs.
+
+## Install
+
+1. Unzip and move **KMctrl.app** to `/Applications`.
+2. First launch (unsigned beta) — a downloaded copy is quarantined and Gatekeeper blocks it.
    **The right-click → Open trick no longer works on macOS 15+.** Clear the flag once:
 
    ```sh
@@ -19,8 +24,6 @@ The source repo is private; notarized/signed builds and notes live here.
 
    …or **System Settings → Privacy & Security → Open Anyway**. If a Keychain prompt appears,
    click **Always Allow**.
-
-Requires macOS 13+.
 
 ## Use
 
