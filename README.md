@@ -8,7 +8,7 @@ The source repo is private; signed builds live here.
 
 ## Download
 
-### ▶︎ [Download KMctrl 0.3.1 (.zip)](https://github.com/jbull79/kmctrl-releases/raw/main/KMctrl-0.3.1.zip)
+### ▶︎ [Download KMctrl 0.4.1 (.zip)](https://github.com/jbull79/kmctrl-releases/raw/main/KMctrl-0.4.1.zip)
 
 Requires macOS 13+. Install on **both** Macs.
 
