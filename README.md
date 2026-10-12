@@ -8,7 +8,7 @@ Source code: [github.com/jbull79/kmctrl](https://github.com/jbull79/kmctrl). Bui
 
 ## Download
 
-### ▶︎ [Download KMctrl 0.8.1 (.zip)](https://github.com/jbull79/kmctrl-releases/raw/main/KMctrl-0.8.1.zip)
+### ▶︎ [Download KMctrl 0.8.2 (.zip)](https://github.com/jbull79/kmctrl-releases/raw/main/KMctrl-0.8.2.zip)
 
 Requires macOS 13+, Apple Silicon. Install on **both** Macs.
 
