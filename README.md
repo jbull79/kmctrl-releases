@@ -4,13 +4,13 @@
 no cloud, no accounts. Built for bridging a locked-down / MDM work Mac to a personal one:
 **window mode needs no permissions**, so it works without admin rights.
 
-The source repo is private; signed builds live here.
+Source code: [github.com/jbull79/kmctrl](https://github.com/jbull79/kmctrl). Builds are also published there under [Releases](https://github.com/jbull79/kmctrl/releases); this repo hosts the latest zip.
 
 ## Download
 
-### ▶︎ [Download KMctrl 0.5.0 (.zip)](https://github.com/jbull79/kmctrl-releases/raw/main/KMctrl-0.5.0.zip)
+### ▶︎ [Download KMctrl 0.8.0 (.zip)](https://github.com/jbull79/kmctrl-releases/raw/main/KMctrl-0.8.0.zip)
 
-Requires macOS 13+. Install on **both** Macs.
+Requires macOS 13+, Apple Silicon. Install on **both** Macs.
 
 ## Install
 
@@ -36,3 +36,10 @@ Requires macOS 13+. Install on **both** Macs.
 - **Edge mode** (bump a screen edge to hand off) needs Accessibility + Input Monitoring.
 
 Runs from the Dock, the menu bar, or both (Settings → Show KMctrl in).
+
+## New in 0.8
+
+- **Clipboard sync** — text and images copied on either Mac appear on the other during a session.
+- **Layout-independent typing**, **media keys** (volume, brightness, playback) and a **mouse speed** slider.
+- **⌃⌥⌘K** starts controlling again from any app (no permissions needed).
+- **Wake screen** for the remote Mac, a **daily update check**, and a fix so a Magic Mouse swipe no longer drops control.
